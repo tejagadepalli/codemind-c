@@ -12,11 +12,11 @@ int main()
     {
         if(a[i]%2!=0)
         {
-         if(i%2==0)
-         {
-             printf("False");
-             return 0;
-         }
+            if(i%2==0)
+            {
+                printf("False");
+                return 0;
+            }
         }
     }
     printf("True");
